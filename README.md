@@ -2,7 +2,7 @@
  Data Analysis Final Project using Microsoft Excel. Data cleaning, pivot tables, dashboards and business insights. Europe Bike Store Sales (Kaggle )
 #  Excel Data Analysis Project – Europe Bike Store Sales
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a complete data analysis of the **Europe Bike Store Sales** dataset (Kaggle) using **Microsoft Excel**.
 
