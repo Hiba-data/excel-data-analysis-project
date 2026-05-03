@@ -1,6 +1,6 @@
 # excel-data-analysis-project
  Data Analysis Final Project using Microsoft Excel. Data cleaning, pivot tables, dashboards and business insights. Europe Bike Store Sales (Kaggle )
-# 📊 Excel Data Analysis Project – Europe Bike Store Sales
+#  Excel Data Analysis Project – Europe Bike Store Sales
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ The objective is to clean, analyze, and visualize sales data in order to extract
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Source: Kaggle
 * Dataset: *Europe Bike Store Sales*
@@ -27,7 +27,7 @@ The objective is to clean, analyze, and visualize sales data in order to extract
 
 ---
 
-## 🔍 Project Steps
+##  Project Steps
 
 ### 1. Data Cleaning
 
@@ -61,13 +61,13 @@ The objective is to clean, analyze, and visualize sales data in order to extract
 
 ---
 
-## 📈 Results
+##  Results
 
 The project provides a clear overview of sales performance and helps identify opportunities for business growth through data-driven insights.
 
 ---
 
-## 📽️ Presentation
+##  Presentation
 
 A PowerPoint presentation is included to summarize:
 
